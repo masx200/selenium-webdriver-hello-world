@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/selenium-webdriver": "^4.1.15",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "type": "module",
+  "name": "selenium-webdriver-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
