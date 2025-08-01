@@ -24,4 +24,4 @@ import { Builder, By } from "selenium-webdriver";
   } finally {
     await driver.quit();
   }
-})();
+})().then(console.log, console.error);
